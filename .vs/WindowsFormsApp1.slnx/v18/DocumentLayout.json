@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\lisa\\Desktop\\\u043F\u0440\u0440\u0430\u04313\u043D\u043E\u0432\u043E\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{941CD47C-F4CA-4EFD-9D56-353E8A0DBD79}|WindowsFormsApp1.csproj|c:\\users\\lisa\\desktop\\\u043F\u0440\u0440\u0430\u04313\u043D\u043E\u0432\u043E\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{941CD47C-F4CA-4EFD-9D56-353E8A0DBD79}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lisa\\Desktop\\\u043F\u0440\u0440\u0430\u04313\u043D\u043E\u0432\u043E\\WindowsFormsApp1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{941CD47C-F4CA-4EFD-9D56-353E8A0DBD79}|WindowsFormsApp1.csproj|c:\\users\\lisa\\desktop\\\u043F\u0440\u0440\u0430\u04313\u043D\u043E\u0432\u043E\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{941CD47C-F4CA-4EFD-9D56-353E8A0DBD79}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lisa\\Desktop\\\u043F\u0440\u0440\u0430\u04313\u043D\u043E\u0432\u043E\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\lisa\\Desktop\\\u043F\u0440\u0440\u0430\u04313\u043D\u043E\u0432\u043E\\WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T08:15:30.149Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-09-23T08:15:30.149Z"
             }
           ]
         }
